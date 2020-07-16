@@ -1,0 +1,16 @@
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#doanvan1{
+    font-weight: bold;
+    font-size: 20px;
+    color: red;
+}
+
+#doanvan2{
+    font-weight: normal;
+    font-size: 50px;
+    text-decoration: underline;
+}
